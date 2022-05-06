@@ -74,3 +74,6 @@ print(text_embeds,image_embeds)
 print(text_embeds.shape)
 print(image_embeds.shape)
 
+
+
+
